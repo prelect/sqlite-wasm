@@ -1,2 +1,3 @@
-# sqlite-wasm
-copied directly from sqlite.org
+# sqlite wasm repository
+
+Convenience repo for integration into a node project
